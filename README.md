@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ptimalsi22
 - 👀 I’m interested in programming and coding
-- 🌱 I’m currently learning master of data science
+- 🌱 I’m currently studying master of data science
 
 
 <!---
